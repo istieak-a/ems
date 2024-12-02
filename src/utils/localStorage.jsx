@@ -1,8 +1,8 @@
 const employees = [
   {
     id: 1,
-    email: "employee1@example.com",
-    password: "123",
+    email: "istieak@gmail.com",
+    password: "Istieak",
     tasks: [
       {
         taskTitle: "Complete report",
