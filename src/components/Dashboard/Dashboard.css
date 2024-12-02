@@ -1,0 +1,9 @@
+.input-box {
+    @apply flex flex-col gap-2;
+}
+.input-box input, textarea, select {
+    @apply  rounded-md px-3 py-2 bg-[#313131];
+}
+.input-box label {
+    @apply text-lg font-semibold;
+}
